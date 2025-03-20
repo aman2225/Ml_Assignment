@@ -25,9 +25,20 @@ The dataset used for training and testing contains transaction details such as:
 
 ---
 
-## **Installation & Usage**
-### **1. Install Dependencies**
-Ensure you have Python installed, then run:
+## **Installation & Setup**
+
+### **Prerequisites**
+Ensure you have Python installed along with the required libraries.
+
+### **Install Dependencies**
+Run the following command to install the necessary dependencies:
 
 ```bash
 pip install numpy pandas scikit-learn
+
+### **Running the Notebook**
+Clone this repository or download the notebook manually.
+
+```bash
+git clone https://github.com/your-repository-name.git
+cd your-repository-name
